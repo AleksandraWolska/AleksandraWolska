@@ -1,2 +1,2 @@
 Hello!
-My name is Aleksandra Wolska. I'm a student of Applied Computer Science at Wroclaw's University of Technology, currently working as a Fullstack Developer
+On track to receive my Bachelor of Engineering in Applied Computer Science in January 2024, I am a part of a team creating cloud-based SaaS platform focused on Extended Threat Detection and Response (XDR), targeting challenges of 5G telecom networks. My role involves using technologies such as Golang, K8s, Azure
